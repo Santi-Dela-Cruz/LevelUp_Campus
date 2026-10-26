@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "delivery": 2,
+  "revision": 3,
+  "format": "Self-contained vector SVG; no raster images",
+  "rig": {
+    "viewBox": "0 0 240 340",
+    "projection": "three-quarter-right",
+    "joints": {
+      "root": [
+        120,
+        327
+      ],
+      "pelvis": [
+        119,
+        193
+      ],
+      "spine": [
+        122,
+        150
+      ],
+      "neck": [
+        123,
+        101
+      ],
+      "shoulder-left": [
+        78,
+        119
+      ],
+      "shoulder-right": [
+        159,
+        119
+      ],
+      "elbow-left": [
+        62,
+        158
+      ],
+      "elbow-right": [
+        173,
+        158
+      ],
+      "wrist-left": [
+        54,
+        195
+      ],
+      "wrist-right": [
+        183,
+        194
+      ],
+      "hip-left": [
+        101,
+        198
+      ],
+      "hip-right": [
+        137,
+        198
+      ],
+      "knee-left": [
+        92,
+        253
+      ],
+      "knee-right": [
+        149,
+        254
+      ],
+      "ankle-left": [
+        84,
+        305
+      ],
+      "ankle-right": [
+        151,
+        306
+      ]
+    },
+    "parent": {
+      "pelvis": "root",
+      "spine": "pelvis",
+      "neck": "spine",
+      "shoulder-left": "spine",
+      "shoulder-right": "spine",
+      "elbow-left": "shoulder-left",
+      "elbow-right": "shoulder-right",
+      "wrist-left": "elbow-left",
+      "wrist-right": "elbow-right",
+      "hip-left": "pelvis",
+      "hip-right": "pelvis",
+      "knee-left": "hip-left",
+      "knee-right": "hip-right",
+      "ankle-left": "knee-left",
+      "ankle-right": "knee-right"
+    }
+  },
+  "variants": [
+    {
+      "setId": "base",
+      "gender": "male",
+      "character": "male/base/character.svg",
+      "pieces": {
+        "head": "male/base/head.svg",
+        "chest": "male/base/chest.svg",
+        "hands": "male/base/hands.svg",
+        "legs": "male/base/legs.svg"
+      }
+    },
+    {
+      "setId": "set1",
+      "gender": "male",
+      "character": "male/set1/character.svg",
+      "pieces": {
+        "head": "male/set1/head.svg",
+        "chest": "male/set1/chest.svg",
+        "hands": "male/set1/hands.svg",
+        "legs": "male/set1/legs.svg"
+      }
+    },
+    {
+      "setId": "set2",
+      "gender": "male",
+      "character": "male/set2/character.svg",
+      "pieces": {
+        "head": "male/set2/head.svg",
+        "chest": "male/set2/chest.svg",
+        "hands": "male/set2/hands.svg",
+        "legs": "male/set2/legs.svg"
+      }
+    },
+    {
+      "setId": "set3",
+      "gender": "male",
+      "character": "male/set3/character.svg",
+      "pieces": {
+        "head": "male/set3/head.svg",
+        "chest": "male/set3/chest.svg",
+        "hands": "male/set3/hands.svg",
+        "legs": "male/set3/legs.svg"
+      }
+    },
+    {
+      "setId": "base",
+      "gender": "female",
+      "character": "female/base/character.svg",
+      "pieces": {
+        "head": "female/base/head.svg",
+        "chest": "female/base/chest.svg",
+        "hands": "female/base/hands.svg",
+        "legs": "female/base/legs.svg"
+      }
+    },
+    {
+      "setId": "set1",
+      "gender": "female",
+      "character": "female/set1/character.svg",
+      "pieces": {
+        "head": "female/set1/head.svg",
+        "chest": "female/set1/chest.svg",
+        "hands": "female/set1/hands.svg",
+        "legs": "female/set1/legs.svg"
+      }
+    },
+    {
+      "setId": "set2",
+      "gender": "female",
+      "character": "female/set2/character.svg",
+      "pieces": {
+        "head": "female/set2/head.svg",
+        "chest": "female/set2/chest.svg",
+        "hands": "female/set2/hands.svg",
+        "legs": "female/set2/legs.svg"
+      }
+    },
+    {
+      "setId": "set3",
+      "gender": "female",
+      "character": "female/set3/character.svg",
+      "pieces": {
+        "head": "female/set3/head.svg",
+        "chest": "female/set3/chest.svg",
+        "hands": "female/set3/hands.svg",
+        "legs": "female/set3/legs.svg"
+      }
+    }
+  ]
+}

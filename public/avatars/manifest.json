@@ -1,0 +1,166 @@
+{
+  "version": 2,
+  "format": "SVG clips with original PNG texture",
+  "source": "reference/sets-basics.png",
+  "rig": {
+    "viewBox": "0 0 240 340",
+    "neck": [
+      120,
+      103
+    ],
+    "waist": [
+      120,
+      190
+    ],
+    "wristLeft": [
+      62,
+      198
+    ],
+    "wristRight": [
+      178,
+      198
+    ],
+    "feet": [
+      120,
+      325
+    ]
+  },
+  "assemblyOrder": [
+    "legs",
+    "head",
+    "chest",
+    "hands"
+  ],
+  "sets": [
+    {
+      "id": "base",
+      "gender": "male",
+      "name": "Set Universitario",
+      "unlockLevel": 0,
+      "character": "male/base/character.svg",
+      "pieces": {
+        "head": "male/base/head.svg",
+        "chest": "male/base/chest.svg",
+        "hands": "male/base/hands.svg",
+        "legs": "male/base/legs.svg"
+      }
+    },
+    {
+      "id": "set1",
+      "gender": "male",
+      "name": "Set Académico",
+      "unlockLevel": 10,
+      "character": "male/set1/character.svg",
+      "pieces": {
+        "head": "male/set1/head.svg",
+        "chest": "male/set1/chest.svg",
+        "hands": "male/set1/hands.svg",
+        "legs": "male/set1/legs.svg"
+      }
+    },
+    {
+      "id": "set2",
+      "gender": "male",
+      "name": "Set Deportivo",
+      "unlockLevel": 20,
+      "character": "male/set2/character.svg",
+      "pieces": {
+        "head": "male/set2/head.svg",
+        "chest": "male/set2/chest.svg",
+        "hands": "male/set2/hands.svg",
+        "legs": "male/set2/legs.svg"
+      }
+    },
+    {
+      "id": "set3",
+      "gender": "male",
+      "name": "Set Tecnológico",
+      "unlockLevel": 30,
+      "character": "male/set3/character.svg",
+      "pieces": {
+        "head": "male/set3/head.svg",
+        "chest": "male/set3/chest.svg",
+        "hands": "male/set3/hands.svg",
+        "legs": "male/set3/legs.svg"
+      }
+    },
+    {
+      "id": "set4",
+      "gender": "male",
+      "name": "Set Aventurero",
+      "unlockLevel": 40,
+      "character": "male/set4/character.svg",
+      "pieces": {
+        "head": "male/set4/head.svg",
+        "chest": "male/set4/chest.svg",
+        "hands": "male/set4/hands.svg",
+        "legs": "male/set4/legs.svg"
+      }
+    },
+    {
+      "id": "base",
+      "gender": "female",
+      "name": "Set Universitario",
+      "unlockLevel": 0,
+      "character": "female/base/character.svg",
+      "pieces": {
+        "head": "female/base/head.svg",
+        "chest": "female/base/chest.svg",
+        "hands": "female/base/hands.svg",
+        "legs": "female/base/legs.svg"
+      }
+    },
+    {
+      "id": "set1",
+      "gender": "female",
+      "name": "Set Académico",
+      "unlockLevel": 10,
+      "character": "female/set1/character.svg",
+      "pieces": {
+        "head": "female/set1/head.svg",
+        "chest": "female/set1/chest.svg",
+        "hands": "female/set1/hands.svg",
+        "legs": "female/set1/legs.svg"
+      }
+    },
+    {
+      "id": "set2",
+      "gender": "female",
+      "name": "Set Deportivo",
+      "unlockLevel": 20,
+      "character": "female/set2/character.svg",
+      "pieces": {
+        "head": "female/set2/head.svg",
+        "chest": "female/set2/chest.svg",
+        "hands": "female/set2/hands.svg",
+        "legs": "female/set2/legs.svg"
+      }
+    },
+    {
+      "id": "set3",
+      "gender": "female",
+      "name": "Set Tecnológico",
+      "unlockLevel": 30,
+      "character": "female/set3/character.svg",
+      "pieces": {
+        "head": "female/set3/head.svg",
+        "chest": "female/set3/chest.svg",
+        "hands": "female/set3/hands.svg",
+        "legs": "female/set3/legs.svg"
+      }
+    },
+    {
+      "id": "set4",
+      "gender": "female",
+      "name": "Set Aventurero",
+      "unlockLevel": 40,
+      "character": "female/set4/character.svg",
+      "pieces": {
+        "head": "female/set4/head.svg",
+        "chest": "female/set4/chest.svg",
+        "hands": "female/set4/hands.svg",
+        "legs": "female/set4/legs.svg"
+      }
+    }
+  ]
+}
